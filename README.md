@@ -1,2 +1,3 @@
 # demo-3a0114
-Auto generated demo site for (株)小島工務店
+
+AIによって自動生成された (株)小島工務店 様向けのデモサイトです。
